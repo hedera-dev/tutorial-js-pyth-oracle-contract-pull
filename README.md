@@ -11,6 +11,4 @@ while the smallest unit of ETH is 0.000000000000000001 ETH. You can see the chan
 [MyFirstPythContract.sol](./contracts/src/MyFirstPythContract.sol).
 
 # Video Tutorial
-[![image](https://github.com/hedera-dev/hedera-example-pyth-oracle-contract/assets/72571340/38ac4243-8329-4a72-9fff-549a5d7b6ac1)](https://youtu.be/2_ry0sTvnGo?si=aU_tn5hzmIDeeNEI)
-
-
+[![image](https://github.com/ed-marquez/hedera-example-pyth-oracle-contract/assets/72571340/159e0ce4-7fe3-4907-ad75-b4cb3c44b3a5)](https://youtu.be/2_ry0sTvnGo?si=aU_tn5hzmIDeeNEI)
