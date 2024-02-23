@@ -9,3 +9,8 @@ calculate the price of 1$ in HBAR because In the Hedera EVM layer, the native to
 Ethereum it has 18 decimal places. This means that the smallest unit of HBAR (1 wei in Hedera EVM) is 0.00000001 HBAR,
 while the smallest unit of ETH is 0.000000000000000001 ETH. You can see the change in the code in the
 [MyFirstPythContract.sol](./contracts/src/MyFirstPythContract.sol).
+
+# Video Tutorial
+[![image](https://github.com/hedera-dev/hedera-example-pyth-oracle-contract/assets/72571340/38ac4243-8329-4a72-9fff-549a5d7b6ac1)](https://youtu.be/2_ry0sTvnGo?si=aU_tn5hzmIDeeNEI)
+
+
