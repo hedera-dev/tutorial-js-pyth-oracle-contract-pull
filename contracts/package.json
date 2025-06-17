@@ -14,6 +14,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pythnetwork/pyth-sdk-solidity": "^2.4.0"
+    "@pythnetwork/pyth-sdk-solidity": "^4.1.0"
   }
 }
